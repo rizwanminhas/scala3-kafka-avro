@@ -1,0 +1,17 @@
+{
+  "fields": [
+    {
+      "default": "",
+      "name": "name",
+      "type": "string"
+    },
+    {
+      "default": 0,
+      "name": "age",
+      "type": "int"
+    }
+  ],
+  "name": "User",
+  "namespace": "com.rminhas.avro.generated.v1",
+  "type": "record"
+}
